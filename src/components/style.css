@@ -1,0 +1,37 @@
+tr:nth-child(even){
+    background-color: #F5F7F7;
+}
+
+th{
+    padding: 10px 8px 10px 8px !important;
+}
+
+td{
+    padding: 8px !important;
+}
+
+.action-icons{
+    padding: 5px;
+}
+
+.header{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.add-button{
+    position:absolute;
+    right: 40px;
+    padding: 5px;
+    font-size: 17px;
+}
+
+.add-button i{
+    padding-right: 5px;
+}
+
+.actions-column{
+    width: 5%;
+    min-width: 70px;
+}
+
